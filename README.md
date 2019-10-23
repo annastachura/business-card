@@ -1,4 +1,14 @@
-# wtf-gulp-starter
+![business card](src/assets/img/cover.png)
+
+# Anna Stachura- business card
+
+It is site with my business card, very short description of my passion. 
+
+
+
+
+
+### wtf-gulp-starter
 
 `npm install -g gulp-cli`
 
